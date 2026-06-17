@@ -11,7 +11,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![HR Attrition Dashboard](dashboard_screenshot.png)
+![HR Attrition Dashboard](https://github.com/bhavyajain0408/HR-Employee-Attrition-Dashboard/blob/main/HR%20attrition.png)
 
 > *Add your dashboard screenshot here — rename your screenshot to `dashboard_screenshot.png` and place it in this folder*
 
